@@ -1,0 +1,1 @@
+I used basic arithmetic operations on numbers  to create a calculator app, such as addition , subtraction, multiplication, and division. JavaScript also includes operators for more complex arithmetic operations , such as remainder and exponentiation.
